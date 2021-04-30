@@ -1,6 +1,6 @@
 <?php 
 
-define("BITLY_TOKEN", "YOU_TOKEN");
+define("BITLY_TOKEN", "YOUR_TOKEN");
 
 require_once 'class.bitly-api.php';
 
