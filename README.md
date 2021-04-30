@@ -4,29 +4,13 @@
 ## Class uses
 
 
-```php
-
-use mestoness\IPinfo;
-
-$ipInfo=new IPinfo();
-
-echo $ipInfo->getCountry();
-
-echo $ipInfo->getCityCode();
-
-echo $ipInfo->getCity();
-
-echo $ipInfo->getIsp();
-
-
-```
 
 
 ```php
 
 <?php 
 
-define("BITLY_TOKEN", "YOU_TOKEN");
+define("BITLY_TOKEN", "YOUR_TOKEN");
 
 require_once 'class.bitly-api.php';
 
