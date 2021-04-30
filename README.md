@@ -1,4 +1,4 @@
-# IPinfo
+# Bit.ly API
 
 
 ## Class uses
